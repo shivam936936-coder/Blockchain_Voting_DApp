@@ -53,11 +53,11 @@ MENU:
 
 ---
 
-🔒 Security Highlights
-1.Proof of Work ensures computational effort for block creation.
-2.Hash Validation prevents tampering with block data.
-3.Duplicate Vote Detection maintains fairness.
-4.Candidate Validation ensures only registered candidates receive votes.
+## 🔒 Security Highlights
+- 1.Proof of Work ensures computational effort for block creation.
+- 2.Hash Validation prevents tampering with block data.
+- 3.Duplicate Vote Detection maintains fairness.
+- 4.Candidate Validation ensures only registered candidates receive votes.
 
 ---
 
